@@ -57,7 +57,7 @@ df_melted["Income Quintile"] = df_melted["Quintile_Year"].str.replace(r'_\d{4}',
 
 # Drop unnecessary column
 df_melted.drop(columns=["Quintile_Year"], inplace=True)
-
+```
 
 ## Reshaped Data Preview
 
@@ -96,7 +96,7 @@ df_melted["Expenditure"] = (
 # Remove missing values & "Total Expenditure" rows
 df_melted.dropna(subset=["Expenditure"], inplace=True)
 df_melted = df_melted[df_melted["Statistic"] != "Total expenditure"]
-
+```
 
 ### Data Cleaning Results
 
@@ -122,7 +122,7 @@ The table below provides key statistical insights into household expenditure:
 
 ```python
 print(df_melted.describe())
-
+```
 
 
 ## Summary Statistics
@@ -164,7 +164,7 @@ plt.xlabel("Year")
 plt.ylabel("Avg. Expenditure")
 plt.grid(True)
 plt.show()
-
+```
 ## Insights: Spending Trends Over Time
 - Higher-income households consistently spend more.
 - Spending increased slightly from 2017 to 2019 but plateaued post-2020.
@@ -182,7 +182,7 @@ plt.xlabel("Province")
 plt.ylabel("Total Expenditure")
 plt.grid(True)
 plt.show()
-
+```
 ## Insights: Household Spending by Province
 - **Ontario, Alberta, and British Columbia** have the highest household expenditures (~**1M total**).
 - **Prince Edward Island and New Brunswick** have the lowest expenditures (~**800K total**).
@@ -199,7 +199,7 @@ plt.xlabel("Income Quintile")
 plt.ylabel("Average Expenditure per Household")
 plt.grid(True)
 plt.show()
-
+```
 
 ## Insights: Spending Distribution by Quintile
 
@@ -222,7 +222,7 @@ plt.xlabel("Total Expenditure")
 plt.ylabel("Spending Category")
 plt.grid(True)
 plt.show()
-
+```
 ## Insights: Spending by Category
 - **Shelter** is the biggest expense, followed by **private transportation and food**.
 - **Household operations, recreation, and clothing** also contribute significantly.
