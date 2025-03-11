@@ -36,7 +36,7 @@ import pandas as pd
 file_path = "Household spending by household income quintile.csv"
 df = pd.read_csv(file_path, skiprows=1)
 df.head(10)
-
+```
 ---
 
 ##  Reshaping the Data
