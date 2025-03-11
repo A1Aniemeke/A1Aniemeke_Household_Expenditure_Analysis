@@ -213,6 +213,20 @@ You can explore the interactive **Tableau Dashboard** here:
 
 ---
 
+
+
+## **Conclusion**  
+- Higher-income households spend significantly more, with the highest quintile averaging **$7,000+ per year**, while the lowest spends **around $2,500**.  
+- **Shelter, transportation, and food** are the top household expenses, while **education and miscellaneous expenses** account for the lowest spending.  
+- Spending trends **plateaued or declined post-2020**, likely due to **COVID-19 and inflation**.  
+- **Ontario, Alberta, and British Columbia** have the highest household expenditures, reflecting **regional cost of living differences**.  
+
+## **Recommendations**  
+**For Policymakers**: Provide **targeted subsidies** for essential expenses and monitor **post-pandemic spending shifts**.  
+**For Businesses**: Focus on **housing, transportation, and food sectors**, and tailor products based on income levels.  
+**For Future Research**: Analyze **regional economic factors** and the impact of **inflation on consumer spending**.    
+
+
 ## **Next Steps & Discussion**
 What surprised me the most? Higher-income households **adapt spending habits** based on lifestyle choices, while **lower-income households** remain **consistent**, focusing on **necessities**.  
 
