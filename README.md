@@ -165,6 +165,9 @@ plt.ylabel("Avg. Expenditure")
 plt.grid(True)
 plt.show()
 ```
+![Spending_Trends](https://github.com/user-attachments/assets/53495b20-9f70-4e5c-8df5-905d9fbdfe59)
+
+
 ## Insights: Spending Trends Over Time
 - Higher-income households consistently spend more.
 - Spending increased slightly from 2017 to 2019 but plateaued post-2020.
