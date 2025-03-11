@@ -152,7 +152,7 @@ print(df_melted.describe())
 
 ## Key Visualizations
 
-### How do spending trends change over time?
+## How do spending trends change over time?
 
 ![Spending_Trends](https://github.com/user-attachments/assets/53495b20-9f70-4e5c-8df5-905d9fbdfe59)
 
@@ -164,7 +164,7 @@ print(df_melted.describe())
 - Economic factors (e.g., **COVID-19, inflation**) likely influenced spending after 2020.
 
 
-### Which Provinces spend the most on average?
+## Which Provinces spend the most on average?
 
 ![Spending by Province](https://github.com/user-attachments/assets/f69e1627-c3f9-41c2-94a8-b0aa839736a0)
 
@@ -175,7 +175,7 @@ print(df_melted.describe())
 - **Provincial differences reflect cost of living and economic conditions**.
 
 
-### How does spending vary across income quintiles?
+## How does spending vary across income quintiles?
 
 ![Spending Distribution by Quintile](https://github.com/user-attachments/assets/e8f81445-5670-4952-a3f0-662f253391e4)
 
