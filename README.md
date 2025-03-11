@@ -152,19 +152,8 @@ print(df_melted.describe())
 
 ## Key Visualizations
 
-### Spending Trends Over Time
-```python
-import matplotlib.pyplot as plt
-import seaborn as sns
+### How do spending trends change over time?
 
-plt.figure(figsize=(10, 5))
-sns.lineplot(data=df_melted, x="Year", y="Expenditure", hue="Income Quintile", ci=None)
-plt.title("Average Annual Household Expenditure Trends by Income Quintile (2017-2021)")
-plt.xlabel("Year")
-plt.ylabel("Avg. Expenditure")
-plt.grid(True)
-plt.show()
-```
 ![Spending_Trends](https://github.com/user-attachments/assets/53495b20-9f70-4e5c-8df5-905d9fbdfe59)
 
 
@@ -175,34 +164,20 @@ plt.show()
 - Economic factors (e.g., **COVID-19, inflation**) likely influenced spending after 2020.
 
 
-### Household Spending by Province
-```python
-plt.figure(figsize=(12, 6))
-sns.barplot(data=df_melted, x="Geography", y="Expenditure", estimator=sum, ci=None)
-plt.xticks(rotation=90)
-plt.title("Total Household Expenditure by Province (2017-2021)")
-plt.xlabel("Province")
-plt.ylabel("Total Expenditure")
-plt.grid(True)
-plt.show()
-```
+### Which Provinces spend the most on average?
+
+![Spending by Province](https://github.com/user-attachments/assets/f69e1627-c3f9-41c2-94a8-b0aa839736a0)
+
+
 ## Insights: Household Spending by Province
 - **Ontario, Alberta, and British Columbia** have the highest household expenditures (~**1M total**).
 - **Prince Edward Island and New Brunswick** have the lowest expenditures (~**800K total**).
 - **Provincial differences reflect cost of living and economic conditions**.
 
 
-### Spending Distribution by Quintile
-```python
-plt.figure(figsize=(10, 5))
-sns.boxplot(data=df_melted, x="Income Quintile", y="Expenditure")
+### How does spending vary across income quintiles?
 
-plt.title("Distribution of Average Annual Household Expenditure by Income Quintile")
-plt.xlabel("Income Quintile")
-plt.ylabel("Average Expenditure per Household")
-plt.grid(True)
-plt.show()
-```
+![Spending Distribution by Quintile](https://github.com/user-attachments/assets/e8f81445-5670-4952-a3f0-662f253391e4)
 
 ## Insights: Spending Distribution by Quintile
 
@@ -212,20 +187,11 @@ plt.show()
 - Higher income allows for **more flexible and diverse spending patterns**.
 
 
+## What are the largest spending categories?
 
-## Household Spending by Category
+![Spending by Category](https://github.com/user-attachments/assets/769d9155-3a44-4f68-9fd4-afdb261d60f4)
 
-```python
-top_categories = df_melted.groupby("Statistic")["Expenditure"].sum().sort_values(ascending=False).head(10)
 
-plt.figure(figsize=(12, 6))
-sns.barplot(y=top_categories.index, x=top_categories.values, palette="viridis")
-plt.title("Top 10 Household Spending Categories (Total Expenditure)")
-plt.xlabel("Total Expenditure")
-plt.ylabel("Spending Category")
-plt.grid(True)
-plt.show()
-```
 ## Insights: Spending by Category
 - **Shelter** is the biggest expense, followed by **private transportation and food**.
 - **Household operations, recreation, and clothing** also contribute significantly.
