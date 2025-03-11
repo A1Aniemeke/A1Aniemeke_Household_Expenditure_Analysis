@@ -239,9 +239,9 @@ What surprised me the most? Higher-income households **adapt spending habits** b
 
 ## References  
 
-**Government of Canada, Statistics Canada.** “Household Spending by Household Income Quintile, Canada, Regions and Provinces.” *Statistics Canada*, 25 Apr. 2012. [Link](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022301)
+1. **Government of Canada, Statistics Canada.** “Household Spending by Household Income Quintile, Canada, Regions and Provinces.” *Statistics Canada*, 25 Apr. 2012. [Link](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022301)
 
-**U13-Forward.** “How Do I Melt a Pandas DataFrame?” *Stack Overflow*, 28 Aug. 2021. [Link](https://stackoverflow.com/questions/68961796/how-do-i-melt-a-pandas-dataframe)  
+2. **U13-Forward.** “How Do I Melt a Pandas DataFrame?” *Stack Overflow*, 28 Aug. 2021. [Link](https://stackoverflow.com/questions/68961796/how-do-i-melt-a-pandas-dataframe)  
 
 
 **Connect with me:** [LinkedIn](#) *(https://www.linkedin.com/in/anthony-aniemeke-699427222/)*
