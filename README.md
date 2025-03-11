@@ -221,7 +221,11 @@ You can explore the interactive **Tableau Dashboard** here:
 - Spending trends **plateaued or declined post-2020**, likely due to **COVID-19 and inflation**.  
 - **Ontario, Alberta, and British Columbia** have the highest household expenditures, reflecting **regional cost of living differences**.  
 
-## **Recommendations**  
+## **Recommendations**
+**For Newcomers & Students**
+- Consider affordable provinces like Prince Edward Island & New Brunswick for lower living costs.
+- Budget wisely, prioritizing rent, transportation, and groceries.
+- Explore financial aid and subsidies available for students and newcomers in different
 **For Policymakers**: Provide **targeted subsidies** for essential expenses and monitor **post-pandemic spending shifts**.  
 **For Businesses**: Focus on **housing, transportation, and food sectors**, and tailor products based on income levels.  
 **For Future Research**: Analyze **regional economic factors** and the impact of **inflation on consumer spending**.    
