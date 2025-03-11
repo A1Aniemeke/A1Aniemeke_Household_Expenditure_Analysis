@@ -222,7 +222,7 @@ You can explore the interactive **Tableau Dashboard** here:
 - **Ontario, Alberta, and British Columbia** have the highest household expenditures, reflecting **regional cost of living differences**.  
 
 ## **Recommendations**
-**For Newcomers & Students**
+**For Newcomers & Students in Canada**
 - Consider affordable provinces like Prince Edward Island & New Brunswick for lower living costs.
 - Budget wisely, prioritizing rent, transportation, and groceries.
 - Explore financial aid and subsidies available for students and newcomers in different
@@ -235,6 +235,12 @@ You can explore the interactive **Tableau Dashboard** here:
 ## **Next Steps & Discussion**
 What surprised me the most? Higher-income households **adapt spending habits** based on lifestyle choices, while **lower-income households** remain **consistent**, focusing on **necessities**.  
 
-**What are your thoughts?** Have you noticed similar trends in household spending? Let’s discuss! 🚀
+**What are your thoughts?** Have you noticed similar trends in household spending? Let’s discuss! 
+
+## References  
+
+1. **Government of Canada, Statistics Canada.** “Household Spending by Household Income Quintile, Canada, Regions and Provinces.” *Statistics Canada*, 25 Apr. 2012. [Link](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110022301)  
+2. **U13-Forward.** “How Do I Melt a Pandas DataFrame?” *Stack Overflow*, 28 Aug. 2021. [Link](https://stackoverflow.com/questions/68961796/how-do-i-melt-a-pandas-dataframe)  
+
 
 **Connect with me:** [LinkedIn](#) *(https://www.linkedin.com/in/anthony-aniemeke-699427222/)*
