@@ -1,3 +1,27 @@
+## Table of Contents  
+
+1. [Introduction](#-introduction)  
+2. [Overview](#-overview)  
+3. [Dataset Information](#dataset-information)  
+4. [Data Cleaning & Processing](#data-cleaning--processing)  
+5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+6. [Key Visualizations](#key-visualizations)  
+7. [Tableau Dashboard](#tableau-dashboard)  
+8. [Tools & Methods](#tools--methods)  
+9. [Conclusion & Recommendations](#conclusion--recommendations)  
+10. [Next Steps & Discussion](#next-steps--discussion)  
+11. [References](#references)  
+12. [Connect with Me](#connect-with-me)
+
+
+
+
+
+
+
+
+
+
 # Household Expenditure Analysis (2017-2021)
 
 ## Introduction  
