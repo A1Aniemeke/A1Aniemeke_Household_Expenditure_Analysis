@@ -1,3 +1,5 @@
+# Household Expenditure Analysis (2017-2021)
+
 ## Table of Contents  
 
 1. [Introduction](#-introduction)  
@@ -22,7 +24,7 @@
 
 
 
-# Household Expenditure Analysis (2017-2021)
+
 
 ## Introduction  
 As I round up my studies in Ontario, I became curious about **household spending patterns** across different provinces in Canada. What drives expenditure differences? Do higher-income households spend significantly more? How do spending trends change over time?  
